@@ -1,0 +1,1 @@
+<p>El caso de DC fue de mayor a menor, consiguieron grandes éxitos como la trilogía del Batman de Nolan, pero el intento de crear su propio Universo Cinematográfico se entorpeció por el fracaso de Batman V Superman, el film que tenia pensado propulsar ese plan.</p>

@@ -1,0 +1,1 @@
+<p>La cúspide de este gran plan de Marvel llego en Avengers: Endgame (2019). Esto era un final en el que todo se resolvía, los fans pudieron ver a sus heroes pelear juntos y los ejecutivos consiguieron un éxito increíble en la taquilla.</p>

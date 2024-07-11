@@ -2,3 +2,27 @@
 Road Rage (DaFont)
 Satoshi (Creative Commons)
 
+//Funciones para transformar el codigo:
+
+RatingPeliculasporAño( transforma los datos del dataset peliculas para hacer el promedio de rendimiento en la critica por año)
+
+contarPeliculasPorAño(suma la cantidad de peliculas de Marvel por año)
+
+contarFvS(suma la cantidad de Flop vs Success {breakeven del dataset peliculas} y almacena eso en cada año)
+
+<Scroll 1>
+El foreground es simple, nada mas texto que se mueve conforme al scroll.
+
+El backround se activa dependiendo del valor progress y el index. Al activarse, el path se dibuja por medio de transition:draw.
+
+Tambien se solapan luego datos de referencias que se activan de la misma manera con transition:fade
+
+<Scroll 2>
+Foreground simple, backround que es un grafico de barras, el cual dependiendo el parametro se activa transition:fade para que aparezcan una linea y texto
+
+<Scroll 3>
+Foreground simple. El background es un gráfico de líneas que muestran los datos curados por la función que se encarga por los Flop vs Success. Lo representa como dos lineas, una de Éxito y otra de Fracaso.
+Luedo de activarse transition:fade, aparecen en el gráfico 3 rectángulos que resaltan períodos de tiempo relevantes para una mejor comprensión del gráfico.
+
+<Scroll 4>
+Foreground simple. El background es un grafico de barras. El eje "y" demarca el promedio de valoración en la crítica en un año específico, el eje "x" representa los años.

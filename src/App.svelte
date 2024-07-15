@@ -423,7 +423,7 @@
   <div class="lorem_ipsum1"
   style="margin-top: 5%;">
 
-    <h2 style="fill">Autores</h2>
+    <h2 style="fill">Visualización de Datos</h2>
     <p>Manuel Milde</p>
     <p>Gonzalo García Vence</p>
     <p>Ezequiel Grinblat</p>
@@ -431,17 +431,6 @@
   </div>
 </main>
 
-<!-- <div class="lorem_ipsum">
-  <p style="font-weight: bold;">Al día de hoy, el desempeño de ambas franquicias en la taquilla se ve de la siguiente manera:</p>
-  <p>El punto más alto de recaudación de Marvel se da en "Endgame", seguida de "Infinity War", 
-    mientras que en DC las más taquilleras fueron "The Dark Knight" y "The Dark Knight Rises".</p>
-</div>
-<div class="flourish-embed flourish-chart" data-src="visualisation/18441838"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="lorem_ipsum">
-  
-  <p>Es interesante cómo las dos películas de DC que más recaudaron, no alcanzan ni siquiera a la cuarta de Marvel: "The Avengers" de 2012. </p>
-  <p style="font-style: italic;">Sin embargo, después de "Endgame" los números bajan drásticamente. ¿A qué se debe esto?</p>
-</div> -->
 
 
 

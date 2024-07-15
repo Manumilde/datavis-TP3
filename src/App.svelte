@@ -450,7 +450,7 @@
 <style>
   :global(body){
             background: #12031D;
-            background-image: url('../images/PerspectiveGrid.png');
+            background-image: url('/images/PerspectiveGrid.png');
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
